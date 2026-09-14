@@ -2,9 +2,9 @@
   "servers": [
     {
       "name": "Server 1",
-      "user": "username1",
-      "pass": "password1",
-      "host": "1.2.3.4",
+      "user": "ansjsj128-vpnjantit.com",
+      "pass": "ansjsj128",
+      "host": "my2.vpnjantit.com",
       "port": 22
     },
     {
