@@ -2,27 +2,19 @@
   "servers": [
     {
       "name": "Server 1",
-      "user": "ansjsj128-vpnjantit.com",
-      "pass": "ansjsj128",
       "host": "my2.vpnjantit.com",
-      "port": 22
+      "port": 22,
+      "username": "Sapatos7-vpnjantit.com",
+      "password": "Sapatos7",
+      "payload": "CONNECT [host_port] [protocol][crlf]Host: wscdn.ml.youngjoygame.com[crlf]X-Online-Host: wscdn.ml.youngjoygame.com[crlf]X-Forward-Host: wscdn.ml.youngjoygame.com[crlf]Connection: Keep-Alive[crlf][crlf]"
     },
     {
       "name": "Server 2",
-      "user": "username2",
-      "pass": "password2",
-      "host": "example.com",
-      "port": 22
-    }
-  ],
-  "payloads": [
-    {
-      "name": "Payload 1",
-      "payload": "CONNECT [host_port] HTTP/1.1\\r\\nHost: [host]\\r\\n\\r\\n"
-    },
-    {
-      "name": "Payload 2",
-      "payload": "GET / HTTP/1.1\\r\\nHost: [host]\\r\\n\\r\\n"
+      "host": "ssh2.example.com",
+      "port": 22,
+      "username": "myuser",
+      "password": "mypassword",
+      "payload": ""
     }
   ]
 }
